@@ -1,7 +1,7 @@
 # exampleOfJava
 
 # purpose
-* simple example that done with java in this repository
+* There are simple examples that done with java in this repository
 
 # contents
 * AvarageCalculeter(for university)
